@@ -105,7 +105,9 @@ Con la implementación de este Dashboard analítico, la entidad logra:
 Este repositorio presenta una solución integral de **Business Intelligence (BI)** desarrollada para la **Empresa Nacional de la Coca S.A. (ENACO)**. El sistema centraliza y analiza el flujo completo de documentos recibidos en la institución, transformando registros transaccionales complejos en un **Dashboard Interactivo en Power BI**.
 
 El objetivo principal es responder a preguntas clave de negocio y auditoría operativa: *¿Qué canales de recepción generan mayor volumen?, ¿Cuál es el tiempo real de respuesta (Lead Time) por analista?, y ¿Cómo se distribuye la carga operativa de trámites a lo largo del tiempo?*
-
+<p align="center">
+  <img src="image/P001.png" alt="Dashboard de ENACO" width="800">
+</p>
 ---
 
 ## 🎯 2. Preguntas Clave de Negocio (Business Questions)
